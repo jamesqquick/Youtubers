@@ -11,3 +11,4 @@
 | MatchaMaze  | https://www.youtube.com/channel/UCkQHdtoI-By9ogdxqVOKWJw  |     https://twitter.com/MatchaMazeTweet       |
 | Anfractuous  | https://www.youtube.com/anfractuousdev  |     https://twitter.com/AnfractuousOne       |
 | kamogeloCharmaine  | https://www.youtube.com/channel/UCUtTPgZxfZv-p9XlMsxmMqQ  |     https://twitter.com/kamogelo142       |
+| James Quick  | https://www.youtube.com/jamesqquick  |     https://twitter.com/jamesqquick       |
